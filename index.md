@@ -11,6 +11,8 @@ The data hosting/transfer capability and permissions are provided by [Globus](ht
 
 For technical details about the portal, see the [Technology page](tech.md).
 
+![Dust emission at 353 GHz](https://g-6b53b6.c2d0f8.bd7c.data.globus.org/datasets/dust/dust_143GHz.jpg)
+
 ## Data Access 
 
 Browsing the metadata on the website is always public for any dataset.
